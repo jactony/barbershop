@@ -1,3 +1,36 @@
 //variables tipograficas
 
-$playfair:'Playfair Display', serif;
+$roboto-reg:'Roboto', sans-serif;
+$roboto-lig:300;
+$fontsize:3rem;
+$playfair-reg:'Playfair Display', serif;
+$playfair-black:900;
+$playfair-ital:italic;
+
+
+
+
+//Variables de colores
+// color del blanco al gris claro
+
+$blanco:#fff;
+$blanco-platino:#e6e7e7;
+$blanco-gray:#d1d1d1;
+
+//color anaranjado
+$fuzzy-wu:#e56353;
+$fuzzy-rudd:#d76c69;
+$fuzzy-span:#ecbcba;
+
+//color del negro al gris oscuro
+$black-erie:#121619;
+$black-raisin:#222323;
+$black-nickel:#6c6e70;
+
+// modificar bootstrap
+$primary: $black-nickel;
+$border-radius-sm: 25px;
+
+//redondear imágenes
+
+//paginador bg
