@@ -7,9 +7,6 @@ $playfair-reg:'Playfair Display', serif;
 $playfair-black:900;
 $playfair-ital:italic;
 
-
-
-
 //Variables de colores
 // color del blanco al gris claro
 
@@ -30,6 +27,10 @@ $black-nickel:#6c6e70;
 // modificar bootstrap
 $primary: $black-nickel;
 $border-radius-sm: 25px;
+
+$border-top-right-radius:1.25rem;
+
+$navbar-dark-active-color:#e56353;
 
 //redondear imágenes
 
